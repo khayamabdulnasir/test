@@ -4,3 +4,9 @@ c:\users\king\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\Gi
 c:\users\king\documents\visual studio 2015\Projects\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
 c:\users\king\documents\visual studio 2015\Projects\GitTest\GitTest\obj\Debug\GitTest.exe
 c:\users\king\documents\visual studio 2015\Projects\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\inetpub\wwwroot\GitTest\test\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\inetpub\wwwroot\GitTest\test\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\inetpub\wwwroot\GitTest\test\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\inetpub\wwwroot\GitTest\test\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\inetpub\wwwroot\GitTest\test\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\inetpub\wwwroot\GitTest\test\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
